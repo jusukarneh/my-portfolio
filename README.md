@@ -31,7 +31,7 @@ N/A
 ## Usage
 
 
-here is the link:https://jusukarneh.github.io/my-portfolio/ 
+here is the link: <a href="https://jusukarneh.github.io/my-portfolio/ ">Profolio</a>
 
 <img src="" alt="Screenshot of deployed application" />
 
