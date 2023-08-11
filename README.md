@@ -31,7 +31,7 @@ N/A
 ## Usage
 
 
-here is the link: https://jusukarneh.github.io/my-code-refactor/
+here is the link:https://jusukarneh.github.io/my-portfolio/ 
 
 <img src="" alt="Screenshot of deployed application" />
 
